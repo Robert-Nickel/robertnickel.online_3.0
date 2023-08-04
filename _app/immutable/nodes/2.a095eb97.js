@@ -1,4 +1,4 @@
-import{S as Ot,i as Qt,s as Tt,k as e,a as h,q as r,l as a,m as c,h as l,c as g,r as n,n as s,J as Kt,p as D,b as Ut,G as t,H as Bt}from"../chunks/index.fe361f2c.js";import{b as Lt}from"../chunks/paths.8d3d9efd.js";function Wt(G){let o,M,N,K,b,p,_,Vt,L,y,P,O,Q,w,T,U,E,q,Ct,W,B,X,Z,d,v,tt,et,at,I,st,rt,lt,nt,ct,i,it,ot,dt,z,ut,vt,S,ht,gt,pt,mt,ft,bt,_t,yt,wt,f,Et,It,zt,x,St,kt,Rt,Pt,V,xt,Dt,Mt,C,Y;return{c(){o=e("div"),M=e("div"),N=e("p"),K=h(),b=e("div"),p=e("div"),_=e("img"),L=h(),y=e("div"),P=e("h1"),O=r("Helping teams to build and deliver software"),Q=h(),w=e("h1"),T=r("sustainably"),U=h(),E=e("div"),q=e("img"),W=h(),B=e("h3"),X=r("Robert Nickel"),Z=h(),d=e("div"),v=e("p"),tt=r("Building purposeful digital products requires more than good planning."),et=e("br"),at=r(`It requires a
+import{S as Ot,i as Qt,s as Tt,k as e,a as h,q as r,l as a,m as c,h as l,c as g,r as n,n as s,J as Kt,p as D,b as Ut,G as t,H as Bt}from"../chunks/index.fe361f2c.js";import{b as Lt}from"../chunks/paths.9a605b53.js";function Wt(G){let o,M,N,K,b,p,_,Vt,L,y,P,O,Q,w,T,U,E,q,Ct,W,B,X,Z,d,v,tt,et,at,I,st,rt,lt,nt,ct,i,it,ot,dt,z,ut,vt,S,ht,gt,pt,mt,ft,bt,_t,yt,wt,f,Et,It,zt,x,St,kt,Rt,Pt,V,xt,Dt,Mt,C,Y;return{c(){o=e("div"),M=e("div"),N=e("p"),K=h(),b=e("div"),p=e("div"),_=e("img"),L=h(),y=e("div"),P=e("h1"),O=r("Helping teams to build and deliver software"),Q=h(),w=e("h1"),T=r("sustainably"),U=h(),E=e("div"),q=e("img"),W=h(),B=e("h3"),X=r("Robert Nickel"),Z=h(),d=e("div"),v=e("p"),tt=r("Building purposeful digital products requires more than good planning."),et=e("br"),at=r(`It requires a
 				process that is based on
 				`),I=e("a"),st=r("agile values and principles"),rt=r(`, so
 				that adapting to changing requirements in an everchanging world isn't just a necessity,`),lt=e("br"),nt=r(`
@@ -6,7 +6,7 @@ import{S as Ot,i as Qt,s as Tt,k as e,a as h,q as r,l as a,m as c,h as l,c as g,
 				Professional Scrum Master (`),z=e("a"),ut=r("PSM I"),vt=r(`
 				and
 				`),S=e("a"),ht=r("PSM II"),gt=r("),"),pt=e("br"),mt=r(`
-				experienced Software Engineer (6+ years)`),ft=e("br"),bt=r(`
+				experienced Software Engineer (6+ years),`),ft=e("br"),bt=r(`
 				Master of Computer Science,`),_t=e("br"),yt=r(`
 				and have worked with Scrum since 2016.`),wt=h(),f=e("p"),Et=r("If want my help adopting agile values and principles in your company,"),It=e("br"),zt=r(`
 				you can count on me, just
@@ -18,7 +18,7 @@ import{S as Ot,i as Qt,s as Tt,k as e,a as h,q as r,l as a,m as c,h as l,c as g,
 				Professional Scrum Master (`),z=a(u,"A",{href:!0,target:!0,class:!0});var Yt=c(z);ut=n(Yt,"PSM I"),Yt.forEach(l),vt=n(u,`
 				and
 				`),S=a(u,"A",{href:!0,target:!0,class:!0});var $t=c(S);ht=n($t,"PSM II"),$t.forEach(l),gt=n(u,"),"),pt=a(u,"BR",{}),mt=n(u,`
-				experienced Software Engineer (6+ years)`),ft=a(u,"BR",{}),bt=n(u,`
+				experienced Software Engineer (6+ years),`),ft=a(u,"BR",{}),bt=n(u,`
 				Master of Computer Science,`),_t=a(u,"BR",{}),yt=n(u,`
 				and have worked with Scrum since 2016.`),u.forEach(l),wt=g(m),f=a(m,"P",{class:!0});var j=c(f);Et=n(j,"If want my help adopting agile values and principles in your company,"),It=a(j,"BR",{}),zt=n(j,`
 				you can count on me, just
