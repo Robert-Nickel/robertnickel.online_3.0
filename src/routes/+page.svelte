@@ -47,9 +47,8 @@
 			</div>
 
 			<p class="cta">
-				If want my help adopting agile values and principles in your company,<br />
-				you can count on me, just
-				<a href="https://calendly.com/robertnickel/30min">give me a call.</a>
+				If you want my help adopting agile values and principles in your company,<br />
+				just <a href="https://calendly.com/robertnickel/30min">give me a call.</a>
 			</p>
 			<hr />
 
