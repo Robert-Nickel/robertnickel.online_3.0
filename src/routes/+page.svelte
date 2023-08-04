@@ -5,9 +5,7 @@
 </script>
 
 <div class="container">
-	<div class="left">
-		<p />
-	</div>
+	<div class="left"><p /></div>
 	<div class="main">
 		<div class="image-container">
 			<img src="{base}/images/me.jpg" alt="Robert Nickel, smiling" width="100%" />
@@ -21,13 +19,14 @@
 				<h3 style="margin-left: 1em;">Robert Nickel</h3>
 			</div>
 		</div>
-		<div style="margin-top: 2em;">
+		<div class="text-container">
 			<p class="why-agile">
 				Building purposeful digital products requires more than good planning.<br />It requires a
 				process that is based on
 				<a href="https://agilemanifesto.org" target="_blank">agile values and principles</a>, so
-				that adapting to changing requirements in an everchanging world isn't just a competency, but
-				the key advantage over your competition.
+				that adapting to changing requirements in an everchanging world isn't just a necessity,<br
+				/>
+				but the key advantage over your competition.
 			</p>
 
 			<div style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0">
@@ -43,8 +42,8 @@
 					>PSM II</a
 				>),<br />
 				experienced Software Engineer (6+ years)<br />
-				Master of (Computer) Science,<br />
-				and have worked in with Scrum since 2016.
+				Master of Computer Science,<br />
+				and have worked with Scrum since 2016.
 			</div>
 
 			<p class="cta">
@@ -52,16 +51,20 @@
 				you can count on me, just
 				<a href="https://calendly.com/robertnickel/30min">give me a call.</a>
 			</p>
+			<hr />
+
+			<p>© Robert Nickel {currentYear}</p>
 		</div>
-
-		<hr />
-
-		<p>© Robert Nickel {currentYear}</p>
 	</div>
 	<div class="right"><p /></div>
 </div>
 
 <style>
+	.text-container {
+		margin-top: 2em;
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+	}
 	.image-container {
 		position: relative;
 		text-align: center;
@@ -110,7 +113,7 @@
 			width: 100%;
 		}
 		.container {
-			margin-top: 4em;
+			margin-top: 2em;
 		}
 	}
 
