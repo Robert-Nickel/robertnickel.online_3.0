@@ -1,62 +1,58 @@
 <script lang="ts">
+	import { base } from '$app/paths';
+
 	const currentYear: string = new Date().getFullYear().toString();
 </script>
 
 <div class="container">
-	<div class="left"><p /></div>
+	<div class="left">
+		<p />
+	</div>
 	<div class="main">
-		<h1>Ich helfe Teams dabei, wertschöpfende Software nachhaltig zu entwickeln.</h1>
+		<div class="image-container">
+			<img src="{base}/images/me.jpg" alt="Robert Nickel, smiling" width="100%" />
+			<div class="image-text-slogan">
+				<h1 style="margin-bottom: 0;">Helping teams to build and deliver software</h1>
+				<h1 style="text-decoration-line: underline; margin-top: 0;">sustainably</h1>
+			</div>
+			<div class="image-text-name">
+				<!-- svelte-ignore a11y-missing-attribute -->
+				<img src="{base}/images/arrow.svg" />
+				<h3 style="margin-left: 1em;">Robert Nickel</h3>
+			</div>
+		</div>
+		<div style="margin-top: 2em;">
+			<p class="why-agile">
+				Building purposeful digital products requires more than good planning.<br />It requires a
+				process that is based on
+				<a href="https://agilemanifesto.org" target="_blank">agile values and principles</a>, so
+				that adapting to changing requirements in an everchanging world isn't just a competency, but
+				the key advantage over your competition.
+			</p>
 
-		<img
-			src="/images/ac-se.svg"
-			alt="Ein Venn-Diagramm von Agile Coaching und Software Engineering, wo in der Schnittmenge der beiden Kreise 'Hier liegt der Hund begraben' steht."
-		/>
-		<p>
-			Dafür arbeite ich an der Schnittstelle zwischen dem Software Engineering und dem Agile
-			Coaching.
-		</p>
+			<div style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0">
+				I am an Agile Coach in Constance, Germany,<br />
+				Professional Scrum Master (<a
+					href="https://www.credly.com/badges/1ac44c66-94cd-4ef6-97b6-6b57af7be3a5"
+					target="_blank"
+				>
+					PSM I</a
+				>
+				and
+				<a href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d" target="_blank"
+					>PSM II</a
+				>),<br />
+				experienced Software Engineer (6+ years)<br />
+				Master of (Computer) Science,<br />
+				and have worked in with Scrum since 2016.
+			</div>
 
-		<h2>Wer?</h2>
-		<p>
-			Ich bin Robert Nickel. Durch meine mehrjährigen, praktischen Erfahrungen in beiden Bereichen
-			durfte ich lernen, was es bedeutet, Softwaresysteme architektonisch zu planen, produktiven
-			Code und Tests zu schreiben, aber auch Scrum einzuführen, agile Prinzipien und Clean Code
-			Prinzipien vorzuleben und mit den eigenen Händen qualitativ hochwertige digitale Produkte zu
-			entwickeln.
-		</p>
-		<h2>Für wen?</h2>
-		<p>Wenn Ihnen eines dieser folgenden Probleme bekannt vorkommt:</p>
-		<ol>
-			<li>Die Software hat einfach zu viele Bugs,</li>
-			<li>die Entwickler brauchen sehr viel Zeit für Kleinigkeiten,</li>
-			<li>
-				die Schätzungen sind über einen längeren Zeitraum um Faktor 2 oder mehr daneben, und machen
-				die Entwicklung somit völlig unplanbar
-			</li>
-			<li>sich jedes Release wie ein riskantes Unterfangen anfühlt,</li>
-			<li>
-				Sprintwechsel ein Tauziehen zwischen zusätzlicher Funktionalität und der Beseitigung von
-				technischen Schulden ist,
-			</li>
-		</ol>
-		<p>
-			oder Sie sich fragen, warum nicht mehr Leute Ihr Produkt benutzen wollen, dann kann ich Ihnen
-			damit helfen!
-		</p>
-
-		<h2>Wie genau?</h2>
-		<p>
-			Ich führe eine systematische, tiefgehende und völlig transparente Analyse der Strukturen Ihrer
-			Organisation durch. Mittels einer professionellen Durchleuchtung aller technologischen,
-			organisatorischen und kommunikativen Zusammenhänge, finde ich mit Ihnen gemeinsam systematisch
-			die größten Verbesserungspotentiale Ihres Unternehmens. Damit steigern Sie nicht nur die
-			Zufriedenheit Ihrer Mitarbeiter, sondern auch die Wertschöpfungsfähigkeit Ihres Unternehmens.
-		</p>
-		<p>
-			Als unabhängiger Berater kann ich dabei kritische Bereiche völlig unbefangen und
-			interessenskonfliktfrei beschreiten, und ehrliche, klare Einblicke in komplexe Zusammenhänge
-			geben. Treten Sie gerne ganz unbefangen in Kontakt mit mir!
-		</p>
+			<p class="cta">
+				If want my help adopting agile values and principles in your company,<br />
+				you can count on me, just
+				<a href="https://calendly.com/robertnickel/30min">give me a call.</a>
+			</p>
+		</div>
 
 		<hr />
 
@@ -66,21 +62,40 @@
 </div>
 
 <style>
+	.image-container {
+		position: relative;
+		text-align: center;
+		color: white;
+	}
 	img {
 		max-width: 100%;
 		height: auto;
 	}
-
-	.container {
-		margin-top: 8em;
+	.image-text-slogan {
+		position: absolute;
+		bottom: 100px;
+		width: 200px;
+		left: 30%;
+		text-align: left;
+		transform: translate(-50%, 0);
+	}
+	.image-text-name {
+		display: flex;
+		position: absolute;
+		top: 20%;
+		right: 18%;
+		color: rgb(255, 255, 0);
+		transform: translate(50%, 0);
 	}
 
+	.container {
+		margin-top: 0em;
+	}
 	.left,
 	.right {
 		float: left;
 		width: 25%;
 	}
-
 	.main {
 		float: left;
 		width: 50%;
@@ -97,5 +112,24 @@
 			margin-left: 1em;
 			margin-right: 1em;
 		}
+	}
+
+	h1 {
+		font-size: 4rem;
+		line-height: 1.3em;
+	}
+
+	a {
+		color: black;
+	}
+
+	.why-agile {
+		font-size: x-large;
+	}
+
+	.cta {
+		margin-top: 2em;
+		margin-bottom: 6em;
+		font-size: large;
 	}
 </style>
