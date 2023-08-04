@@ -41,7 +41,7 @@
 				<a href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d" target="_blank"
 					>PSM II</a
 				>),<br />
-				experienced Software Engineer (6+ years)<br />
+				experienced Software Engineer (6+ years),<br />
 				Master of Computer Science,<br />
 				and have worked with Scrum since 2016.
 			</div>
