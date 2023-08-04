@@ -106,7 +106,7 @@
 		width: 50%;
 	}
 
-	@media screen and (max-width: 1000px) {
+	@media screen and (max-width: 1200px) {
 		.left,
 		.main,
 		.right {
@@ -132,7 +132,7 @@
 		}
 	}
 
-	@media (min-width: 1000px) {
+	@media (min-width: 1200px) {
 		h1 {
 			font-size: 4rem;
 			line-height: 1.3em;
