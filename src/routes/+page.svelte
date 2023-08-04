@@ -82,8 +82,10 @@
 	.image-text-name {
 		display: flex;
 		position: absolute;
+		font-size: small;
+		width: 20px;
 		top: 20%;
-		right: 18%;
+		right: 25%;
 		color: rgb(255, 255, 0);
 		transform: translate(50%, 0);
 	}
@@ -109,14 +111,35 @@
 		}
 		.container {
 			margin-top: 4em;
-			margin-left: 1em;
-			margin-right: 1em;
 		}
 	}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 2rem;
 		line-height: 1.3em;
+	}
+
+	@media (min-width: 500px) {
+		h1 {
+			font-size: 3rem;
+		}
+		.image-text-name {
+			font-size: medium;
+			width: 100px;
+		}
+	}
+
+	@media (min-width: 1000px) {
+		h1 {
+			font-size: 4rem;
+			line-height: 1.3em;
+		}
+
+		.image-text-name {
+			font-size: large;
+			top: 20%;
+			right: 25%;
+		}
 	}
 
 	a {
