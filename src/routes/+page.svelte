@@ -23,10 +23,8 @@
 			<p class="why-agile">
 				Building purposeful digital products requires more than good planning.<br />It requires a
 				process that is based on
-				<a href="https://agilemanifesto.org" target="_blank">agile values and principles</a>, so
-				that adapting to changing requirements in an everchanging world isn't just a necessity,<br
-				/>
-				but the key advantage over your competition.
+				<a href="https://agilemanifesto.org" target="_blank">agile values and principles</a>,
+				so that adapting to changing requirements in an ever-changing world is not just a necessity<br/> but a key advantage over your competition.
 			</p>
 
 			<div style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0">
