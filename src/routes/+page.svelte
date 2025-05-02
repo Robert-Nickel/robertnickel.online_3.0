@@ -66,9 +66,10 @@
 			just
 			<a
 				href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
-				>send me an e-mail</a
+				>send me an e-mail.</a
 			>
 		</p>
+		<p class="smaller">Check what I'm doing <a href="/now">now</a>.</p>
 		<hr />
 
 		<p>© Robert Nickel {currentYear}</p>
