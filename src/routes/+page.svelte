@@ -4,79 +4,77 @@
 	const currentYear: string = new Date().getFullYear().toString();
 </script>
 
-<div class="container">
-	<div class="left"><p></p></div>
-	<div class="main">
-		<div class="image-container">
-			<img
-				src="{base}/images/me.jpg"
-				alt="Robert Nickel, smiling"
-				width="100%"
-			/>
-			<div class="image-text-slogan">
-				<h1 style="margin-bottom: 0;">
-					Helping teams to build and deliver software
-				</h1>
-				<h1 style="text-decoration-line: underline; margin-top: 0;">
-					sustainably
-				</h1>
-			</div>
-			<div class="image-text-name">
-				<!-- svelte-ignore a11y-missing-attribute -->
-				<img src="{base}/images/arrow.svg" />
-				<h3 style="margin-left: 1em;">Robert Nickel</h3>
-			</div>
+<div class="left"><p></p></div>
+<div class="main">
+	<div class="image-container">
+		<img
+			src="{base}/images/me.jpg"
+			alt="Robert Nickel, smiling"
+			width="100%"
+		/>
+		<div class="image-text-slogan">
+			<h1 style="margin-bottom: 0;">
+				Helping teams to build and deliver software
+			</h1>
+			<h1 style="text-decoration-line: underline; margin-top: 0;">
+				sustainably
+			</h1>
 		</div>
-		<div class="text-container">
-			<p class="smaller">
-				Building purposeful digital products requires more than good
-				planning.
-			</p>
-
-			<p class="why-agile">
-				It requires a process that is based on
-				<a href="https://agilemanifesto.org" target="_blank"
-					>agile values and principles</a
-				>, so that adapting to changing requirements in an ever-changing
-				world is not just a necessity<br /> but a key advantage over your
-				competition.
-			</p>
-
-			<div
-				style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0"
-			>
-				I am an Agile Coach in Constance, Germany,<br />
-				certified Professional Scrum Master (<a
-					href="https://www.credly.com/badges/1ac44c66-94cd-4ef6-97b6-6b57af7be3a5"
-					target="_blank"
-				>
-					PSM I</a
-				>
-				and
-				<a
-					href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d"
-					target="_blank">PSM II</a
-				>),<br />
-				experienced Software Engineer (5+ years),<br />
-				Master of Computer Science,<br />
-				and have worked with Scrum since 2016.
-			</div>
-
-			<p class="smaller" style="margin-bottom: 6em;">
-				If you want my help adopting agile values and principles in your
-				company,<br />
-				just
-				<a href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
-					>send me an e-mail</a
-				>
-			</p>
-			<hr />
-
-			<p>© Robert Nickel {currentYear}</p>
+		<div class="image-text-name">
+			<!-- svelte-ignore a11y-missing-attribute -->
+			<img src="{base}/images/arrow.svg" />
+			<h3 style="margin-left: 1em;">Robert Nickel</h3>
 		</div>
 	</div>
-	<div class="right"><p></p></div>
+	<div class="text-container">
+		<p class="smaller">
+			Building purposeful digital products requires more than good
+			planning.
+		</p>
+
+		<p class="why-agile">
+			It requires a process that is based on
+			<a href="https://agilemanifesto.org" target="_blank"
+				>agile values and principles</a
+			>, so that adapting to changing requirements in an ever-changing
+			world is not just a necessity<br /> but a key advantage over your competition.
+		</p>
+
+		<div
+			style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0"
+		>
+			I am an Agile Coach in Constance, Germany,<br />
+			certified Professional Scrum Master (<a
+				href="https://www.credly.com/badges/1ac44c66-94cd-4ef6-97b6-6b57af7be3a5"
+				target="_blank"
+			>
+				PSM I</a
+			>
+			and
+			<a
+				href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d"
+				target="_blank">PSM II</a
+			>),<br />
+			experienced Software Engineer (5+ years),<br />
+			Master of Computer Science,<br />
+			and have worked with Scrum since 2016.
+		</div>
+
+		<p class="smaller" style="margin-bottom: 6em;">
+			If you want my help adopting agile values and principles in your
+			company,<br />
+			just
+			<a
+				href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
+				>send me an e-mail</a
+			>
+		</p>
+		<hr />
+
+		<p>© Robert Nickel {currentYear}</p>
+	</div>
 </div>
+<div class="right"><p></p></div>
 
 <style>
 	.text-container {
@@ -112,12 +110,6 @@
 		transform: translate(50%, 0);
 	}
 
-	.container {
-		margin-top: 0em;
-		line-height: 1.5;
-		font-family: "LeagueSpartanRegular";
-		margin: auto;
-	}
 	.left,
 	.right {
 		float: left;
