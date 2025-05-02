@@ -1,6 +1,4 @@
-<body>
-	<slot />
-</body>
+<slot />
 
 <style>
 	@font-face {
@@ -15,11 +13,5 @@
 		font-style: Black;
 		font-weight: 500;
 		src: url('/fonts/LibreBaskervill-Regular.ttf') format('truetype');
-	}
-
-	body {
-		line-height: 1.5;
-		font-family: 'LeagueSpartanRegular';
-		margin: auto;
 	}
 </style>

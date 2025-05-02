@@ -5,7 +5,7 @@
 </script>
 
 <div class="container">
-	<div class="left"><p /></div>
+	<div class="left"><p></p></div>
 	<div class="main">
 		<div class="image-container">
 			<img src="{base}/images/me.jpg" alt="Robert Nickel, smiling" width="100%" />
@@ -53,7 +53,7 @@
 			<p>© Robert Nickel {currentYear}</p>
 		</div>
 	</div>
-	<div class="right"><p /></div>
+	<div class="right"><p></p></div>
 </div>
 
 <style>
@@ -92,6 +92,9 @@
 
 	.container {
 		margin-top: 0em;
+		line-height: 1.5;
+		font-family: 'LeagueSpartanRegular';
+		margin: auto;
 	}
 	.left,
 	.right {
