@@ -60,7 +60,7 @@
 			and have worked with Scrum since 2016.
 		</div>
 
-		<p class="smaller" style="margin-bottom: 6em;">
+		<p class="smaller" style="margin-bottom: 2em;">
 			If you want my help adopting agile values and principles in your
 			company,<br />
 			just
@@ -69,9 +69,24 @@
 				>send me an e-mail.</a
 			>
 		</p>
-		<p class="smaller">Check what I'm doing <a href="/now">now</a>.</p>
-		<hr />
-
+		
+		
+		<div style="margin: auto;">
+			<h2>Now I'm</h2>
+			<p>- working at <a href="https://www.seitenbau.com/">SEITENBAU</a></p>
+			<p>
+				- training for my first <a href="https://www.wuerzburg-marathon.de/"
+					>marathon</a
+				> on May 25th, 2025
+			</p>
+			<p>
+				- studying <a href="https://www.haufe-akademie.de/34218"
+					>Systemic Business Coaching</a
+				> at Haufe Academy
+			</p>
+		</div>
+		
+		<hr style="margin-top: 6em;" />
 		<p>© Robert Nickel {currentYear}</p>
 	</div>
 </div>
