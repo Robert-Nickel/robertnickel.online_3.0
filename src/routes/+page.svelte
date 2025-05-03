@@ -61,12 +61,9 @@
 		</div>
 
 		<p class="smaller" style="margin-bottom: 2em;">
-			If you want my help adopting agile values and principles in your
-			company,<br />
-			just
 			<a
 				href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
-				>send me an e-mail.</a
+				>Send me an e-mail.</a
 			>
 		</p>
 		
