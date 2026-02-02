@@ -57,6 +57,11 @@
 			>),<br />
 			experienced Software Engineer (5+ years),<br />
 			Master of Computer Science,<br />
+			(very soon to be)
+			<a href="https://www.haufe-akademie.de/34218"
+				>Systemic Business Coach</a
+			>
+			certified by Haufe Akademie<br />
 			and have worked with Scrum since 2016.
 		</div>
 
@@ -66,18 +71,7 @@
 				>Send me an e-mail.</a
 			>
 		</p>
-		
-		
-		<div style="margin: auto;">
-			<h2>Now I'm</h2>
-			<p>- working as Agile Coach at <a href="https://www.seitenbau.com/">SEITENBAU</a></p>
-			<p>
-				- studying <a href="https://www.haufe-akademie.de/34218"
-					>Systemic Business Coaching</a
-				> at Haufe Academy
-			</p>
-		</div>
-		
+
 		<hr style="margin-top: 6em;" />
 		<p>© Robert Nickel {currentYear}</p>
 	</div>
