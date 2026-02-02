@@ -57,11 +57,11 @@
 			>),<br />
 			experienced Software Engineer (5+ years),<br />
 			Master of Computer Science,<br />
-			(very soon to be)
+
 			<a href="https://www.haufe-akademie.de/34218"
 				>Systemic Business Coach</a
 			>
-			certified by Haufe Akademie<br />
+			(very soon to be) certified by Haufe Akademie<br />
 			and have worked with Scrum since 2016.
 		</div>
 
