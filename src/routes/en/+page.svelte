@@ -9,17 +9,16 @@
 	<div class="image-container">
 		<img
 			src="{base}/images/me.jpg"
-			alt="Robert Nickel, lächelnd"
+			alt="Robert Nickel, smiling"
 			width="100%"
 		/>
 		<div class="image-text-slogan">
-			<h1 style="margin-bottom: 0;">Ich helfe Teams dabei, Software</h1>
-			<h1
-				style="text-decoration-line: underline; margin-top: 0; margin-bottom: 0;"
-			>
-				nachhaltig
+			<h1 style="margin-bottom: 0;">
+				Helping teams to build and deliver software
 			</h1>
-			<h1 style="margin-top: 0;">zu entwickeln.</h1>
+			<h1 style="text-decoration-line: underline; margin-top: 0;">
+				sustainably
+			</h1>
 		</div>
 		<div class="image-text-name">
 			<!-- svelte-ignore a11y-missing-attribute -->
@@ -29,47 +28,47 @@
 	</div>
 	<div class="text-container">
 		<p class="smaller">
-			Bedeutungsvolle Produkte zu erschaffen erfordert mehr als gute
-			Planung.
+			Building purposeful digital products requires more than good
+			planning.
 		</p>
 
 		<p class="why-agile">
-			Es erfordert einen Prozess, der auf den <a
-				href="https://agilemanifesto.org"
-				target="_blank">agilen Werten und Prinzipien</a
-			>
-			basiert, so dass die Anpassung an eine sich ständig verändernde Umwelt
-			nicht nur ein notwendiges Übel ist,<br /> sondern der Schlüssel, um sich
-			vom Markt abzusetzen.
+			It requires a process that is based on
+			<a href="https://agilemanifesto.org" target="_blank"
+				>agile values and principles</a
+			>, so that adapting to changing requirements in an ever-changing
+			world is not just a necessity<br /> but a key advantage over your competition.
 		</p>
 
 		<div
 			style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0"
 		>
-			Ich bin hauptberuflich Agile Coach in Konstanz,<br />
-			zertifizierter Scrum Master (<a
+			I am an Agile Coach in Constance, Germany,<br />
+			certified Scrum Master (<a
 				href="https://www.credly.com/badges/1ac44c66-94cd-4ef6-97b6-6b57af7be3a5"
 				target="_blank"
 			>
 				PSM I</a
 			>
-			und
+			and
 			<a
 				href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d"
 				target="_blank">PSM II</a
 			>),<br />
-			habe einen Master in Informatik,<br />
-			war vormals Software Engineer (> 5 Jahre) und bin<br />
-			(sehr bald) durch die Haufe Akademie zertifizierter
+			Master of Computer Science,<br />
+			experienced Software Engineer (5+ years),<br />
+
+			and
 			<a href="https://www.haufe-akademie.de/34218" target="_blank"
-				>Systemischer Business Coach</a
-			>.
+				>Systemic Business Coach</a
+			>
+			(very soon to be) certified by Haufe Akademie.
 		</div>
 
 		<p class="smaller" style="margin-bottom: 2em;">
 			<a
 				href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
-				>Schick mir eine E-Mail.</a
+				>Send me an e-mail.</a
 			>
 		</p>
 
