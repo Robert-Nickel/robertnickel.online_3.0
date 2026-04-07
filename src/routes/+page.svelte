@@ -11,64 +11,78 @@
 			width="100%"
 		/>
 		<div class="image-text-slogan">
-			<h1 style="margin-bottom: 0;">Ich helfe Teams dabei, Software</h1>
-			<h1
-				style="text-decoration-line: underline; margin-top: 0; margin-bottom: 0;"
-			>
-				nachhaltig
-			</h1>
-			<h1 style="margin-top: 0;">zu entwickeln.</h1>
+			<h1 style="margin-bottom: 0;">Rational und empathisch.</h1>
 		</div>
 		<div class="image-text-name">
 			<!-- svelte-ignore a11y-missing-attribute -->
 			<img src={asset("/images/arrow.svg")} />
-			<h3 style="margin-left: 1em;">Robert Nickel</h3>
+			<h3 style="margin-left: 1em; text-align: left;">Robert Nickel</h3>
 		</div>
 	</div>
 	<div class="text-container">
-		<p class="smaller">
-			Bedeutungsvolle Produkte zu erschaffen erfordert mehr als gute
-			Planung.
+		<h2><u>Entscheidungscoaching</u> ist mein zentrales Coachingthema</h2>
+		<p>
+			Durch strukturierte Methoden gewinnst du neue Perspektiven,
+			Erkenntnisse über deine Situation, deine eigenen Werte und Optionen.
+			Unser gemeinsames Ziel ist die Erlangung der Klarheit, um
+			selbstbewusst die richtige Entscheidung zu treffen.
 		</p>
-
-		<p class="why-agile">
-			Es erfordert einen Prozess, der auf den <a
-				href="https://agilemanifesto.org"
-				target="_blank">agilen Werten und Prinzipien</a
-			>
-			basiert, so dass die Anpassung an eine sich ständig verändernde Umwelt
-			nicht nur ein notwendiges Übel ist,<br /> sondern der Schlüssel, um sich
-			vom Markt abzusetzen.
+		<p>
+			Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
+			mentalen Verzerrungen (Biases) mit, so dass sich die Entscheidung
+			nicht nur richtig anfühlt.
 		</p>
 
 		<div
 			style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0"
 		>
-			Ich bin hauptberuflich Agile Coach in Konstanz,<br />
-			zertifizierter Scrum Master (<a
-				href="https://www.credly.com/badges/1ac44c66-94cd-4ef6-97b6-6b57af7be3a5"
-				target="_blank"
-			>
-				PSM I</a
-			>
-			und
-			<a
-				href="https://www.credly.com/badges/282114d5-732c-407b-8536-e0aac28dac6d"
-				target="_blank">PSM II</a
-			>),<br />
-			habe einen Master in Informatik,<br />
-			war vormals Software Engineer (> 5 Jahre) und bin<br />
-			(sehr bald) durch die Haufe Akademie zertifizierter
-			<a href="https://www.haufe-akademie.de/34218" target="_blank"
-				>Systemischer Business Coach</a
-			>.
+			<h2>Ich?</h2>
+			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
+			/>
+			...bin von Haus aus Informatiker (Master of Science)<br />
+
+			...habe Erfahrung in Softwareentwicklung (5 Jahre als Software
+			Engineer, 3 Jahre als Agile Coach)
+			<br />
+			...war schon in einem Konzern (4,5 Jahre), einem Startup (1 Jahr) und
+			einem mittelständischen Unternehmen (2,5 Jahre)<br />
+			...und lebe und arbeite in Konstanz.
 		</div>
 
-		<p class="smaller" style="margin-bottom: 2em;">
-			<a
-				href="mailto:rn30@robertnickel.online?subject=Hello&body=I%20wanted%20to%20reach%20out..."
-				>Schick mir eine E-Mail.</a
-			>
+		<h2>Weitere Coachinganliegen könnten sein</h2>
+		<ul>
+			<li>persönliche Weiterentwicklung (Wer will ich sein?)</li>
+			<li>Gewohnheitsänderungen (Wie will ich sein?)</li>
+			<li>Zielklarheit (Wo will ich hin?)</li>
+		</ul>
+
+		<h2>Preistransparenz</h2>
+		<p>
+			Mein Stundensatz für Privatpersonen beträgt 55€ pro 60 Minuten
+			Session, wobei die erste Session kostenlos ist.
+		</p>
+		<p>
+			Für Unternehmen schreibe ich gerne ein maßgeschneidertes Angebot
+			nach einer strukturierten Auftragsklärung, welche ebenfalls
+			kostenlos ist.
+		</p>
+
+		<h2>Wie machen wir das?</h2>
+
+		<p>
+			Einfach. Schreib mir eine Mail an <a
+				href="mailto:coaching@robertnickel.online"
+				>coaching@robertnickel.online</a
+			> mit deinem ungefähren Anliegen, dann machen wir ein kostenloses Erstgespräch
+			aus.
+		</p>
+		<p>
+			Wir können das Coaching vor Ort in Konstanz oder Umgebung machen,
+			oder remote. Beides hat eigene Vor- und Nachteile.
+		</p>
+		<p>
+			Für Unternehmen erstreckt sich der Radius für Vor Ort Besuche auf
+			die beiden südlichen Bundesländer sowie die Schweiz.
 		</p>
 
 		<hr style="margin-top: 6em;" />
