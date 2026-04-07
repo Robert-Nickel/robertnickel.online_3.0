@@ -3,7 +3,7 @@
 
     export let mobileAutoActive = true;
     export let activeColor = "#ffff00";
-    export let shiftX = 16;
+    export let shiftX = 12;
 
     let element: HTMLDivElement;
     let isActive = false;
