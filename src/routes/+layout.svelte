@@ -8,7 +8,11 @@
 		font-family: "LeagueSpartanRegular";
 		margin: auto;
 	}
-	
+
+	:global(body) {
+		margin: 0;
+	}
+
 	@font-face {
 		font-family: "LeagueSpartanRegular";
 		font-style: Black;

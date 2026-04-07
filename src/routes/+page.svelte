@@ -4,7 +4,6 @@
 	const currentYear: string = new Date().getFullYear().toString();
 </script>
 
-<div class="left"><p></p></div>
 <div class="main">
 	<div class="image-container">
 		<img
@@ -74,10 +73,11 @@
 		</p>
 
 		<hr style="margin-top: 6em;" />
-		<p>© Robert Nickel {currentYear} | <a href="/en">english version</a></p>
+		<p>
+			© Robert Nickel {currentYear} | <a href="/en">english version</a>
+		</p>
 	</div>
 </div>
-<div class="right"><p></p></div>
 
 <style>
 	.text-container {
@@ -113,24 +113,14 @@
 		transform: translate(50%, 0);
 	}
 
-	.left,
-	.right {
-		float: left;
-		width: 25%;
-	}
 	.main {
-		float: left;
 		width: 50%;
+		margin: 0 auto;
 	}
 
 	@media screen and (max-width: 1200px) {
-		.left,
-		.main,
-		.right {
+		.main {
 			width: 100%;
-		}
-		.container {
-			margin-top: 2em;
 		}
 	}
 
