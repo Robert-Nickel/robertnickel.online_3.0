@@ -77,6 +77,8 @@
 <style>
     .highlight-block {
         position: relative;
+        padding-right: var(--shift-x);
+        box-sizing: border-box;
     }
 
     .highlight-content {
