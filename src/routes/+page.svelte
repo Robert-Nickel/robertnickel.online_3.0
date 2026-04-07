@@ -1,13 +1,12 @@
 <script lang="ts">
-	import { base } from "$app/paths";
-
+	import { asset } from "$app/paths";
 	const currentYear: string = new Date().getFullYear().toString();
 </script>
 
 <div class="main">
 	<div class="image-container">
 		<img
-			src="{base}/images/me.jpg"
+			src={asset("/images/me.jpg")}
 			alt="Robert Nickel, lächelnd"
 			width="100%"
 		/>
@@ -22,7 +21,7 @@
 		</div>
 		<div class="image-text-name">
 			<!-- svelte-ignore a11y-missing-attribute -->
-			<img src="{base}/images/arrow.svg" />
+			<img src={asset("/images/arrow.svg")} />
 			<h3 style="margin-left: 1em;">Robert Nickel</h3>
 		</div>
 	</div>
