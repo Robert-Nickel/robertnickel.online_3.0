@@ -74,7 +74,7 @@
 
 		<hr style="margin-top: 6em;" />
 		<p>
-			© Robert Nickel {currentYear} | <a href="/en">english version</a>
+			© Robert Nickel {currentYear}
 		</p>
 	</div>
 </div>
