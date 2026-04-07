@@ -20,11 +20,11 @@
 		</div>
 	</div>
 	<div class="text-container">
-		<h2><u>Entscheidungscoaching</u> ist mein zentrales Coachingthema</h2>
+		<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
 		<p>
 			Durch strukturierte Methoden gewinnst du neue Perspektiven,
 			Erkenntnisse über deine Situation, deine eigenen Werte und Optionen.
-			Unser gemeinsames Ziel ist die Erlangung der Klarheit, um
+			Unser gemeinsames Ziel ist die Erlangung von Klarheit, um
 			selbstbewusst die richtige Entscheidung zu treffen.
 		</p>
 		<p>
@@ -39,14 +39,14 @@
 			<h2>Ich?</h2>
 			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
 			/>
-			...bin von Haus aus Informatiker (Master of Science)<br />
+			...studierte erfolgreich Informatik (Master of Science)<br />
 
 			...habe Erfahrung in Softwareentwicklung (5 Jahre als Software
 			Engineer, 3 Jahre als Agile Coach)
 			<br />
-			...war schon in einem Konzern (4,5 Jahre), einem Startup (1 Jahr) und
-			einem mittelständischen Unternehmen (2,5 Jahre)<br />
-			...und lebe und arbeite in Konstanz.
+			...arbeitete schon in einem Konzern (4,5 Jahre), einem Startup (1 Jahr)
+			und einem mittelständischen Unternehmen (2,5 Jahre)<br />
+			...und lebe und arbeite am westlichen Bodensee (Konstanz).
 		</div>
 
 		<h2>Weitere Coachinganliegen könnten sein</h2>
@@ -71,6 +71,7 @@
 
 		<p>
 			Einfach. Schreib mir eine Mail an <a
+				class="highlight"
 				href="mailto:coaching@robertnickel.online"
 				>coaching@robertnickel.online</a
 			> mit deinem ungefähren Anliegen, dann machen wir ein kostenloses Erstgespräch
@@ -81,7 +82,7 @@
 			oder remote. Beides hat eigene Vor- und Nachteile.
 		</p>
 		<p>
-			Für Unternehmen erstreckt sich der Radius für Vor Ort Besuche auf
+			Für Unternehmen erstreckt sich der Radius für Vor-Ort-Besuche auf
 			die beiden südlichen Bundesländer sowie die Schweiz.
 		</p>
 
@@ -169,12 +170,11 @@
 		color: black;
 	}
 
-	.why-agile {
-		font-size: x-large;
-	}
-
-	.smaller {
-		margin-top: 2em;
-		font-size: large;
+	.highlight {
+		background: linear-gradient(
+			120deg,
+			rgba(255, 255, 0, 0.6) 50%,
+			rgba(255, 255, 0, 0.8) 100%
+		);
 	}
 </style>
