@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { asset } from "$app/paths";
+	import HighlightBlock from "$lib/components/HighlightBlock.svelte";
+
 	const currentYear: string = new Date().getFullYear().toString();
 </script>
 
@@ -20,22 +22,21 @@
 		</div>
 	</div>
 	<div class="text-container">
-		<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
-		<p>
-			Durch strukturierte Methoden gewinnst du neue Perspektiven,
-			Erkenntnisse über deine Situation, deine eigenen Werte und Optionen.
-			Unser gemeinsames Ziel ist die Erlangung von Klarheit, um
-			selbstbewusst die richtige Entscheidung zu treffen.
-		</p>
-		<p>
-			Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
-			mentalen Verzerrungen (Biases) mit, so dass sich die Entscheidung
-			nicht nur richtig anfühlt.
-		</p>
-
-		<div
-			style="margin-top: 2em; padding-left: 2em; border-left: 8px solid rgb(255,255,0"
+		<HighlightBlock>
+			<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
+			<p>
+				Durch strukturierte Methoden gewinnst du neue Perspektiven,
+				Erkenntnisse über deine Situation, deine eigenen Werte und
+				Optionen. Unser gemeinsames Ziel ist die Erlangung von Klarheit,
+				um selbstbewusst die richtige Entscheidung zu treffen.
+			</p>
+			<p>
+				Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
+				mentalen Verzerrungen (Biases) mit, so dass sich die
+				Entscheidung nicht nur richtig anfühlt.
+			</p></HighlightBlock
 		>
+		<HighlightBlock>
 			<h2>Ich?</h2>
 			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
 			/>
@@ -47,44 +48,47 @@
 			...arbeitete schon in einem Konzern (4,5 Jahre), einem Startup (1 Jahr)
 			und einem mittelständischen Unternehmen (2,5 Jahre)<br />
 			...und lebe und arbeite am westlichen Bodensee (Konstanz).
-		</div>
+		</HighlightBlock>
+		<HighlightBlock>
+			<h2>Weitere Coachinganliegen könnten sein</h2>
+			<ul>
+				<li>persönliche Weiterentwicklung (Wer will ich sein?)</li>
+				<li>Gewohnheitsänderungen (Wie will ich sein?)</li>
+				<li>Zielklarheit (Wo will ich hin?)</li>
+			</ul>
+		</HighlightBlock>
+		<HighlightBlock>
+			<h2>Preistransparenz</h2>
+			<p>
+				Mein Stundensatz für Privatpersonen beträgt 55€ pro 60 Minuten
+				Session, wobei die erste Session kostenlos ist.
+			</p>
+			<p>
+				Für Unternehmen schreibe ich gerne ein maßgeschneidertes Angebot
+				nach einer strukturierten Auftragsklärung, welche ebenfalls
+				kostenlos ist.
+			</p>
+		</HighlightBlock>
+		<HighlightBlock>
+			<h2>Wie machen wir das?</h2>
 
-		<h2>Weitere Coachinganliegen könnten sein</h2>
-		<ul>
-			<li>persönliche Weiterentwicklung (Wer will ich sein?)</li>
-			<li>Gewohnheitsänderungen (Wie will ich sein?)</li>
-			<li>Zielklarheit (Wo will ich hin?)</li>
-		</ul>
-
-		<h2>Preistransparenz</h2>
-		<p>
-			Mein Stundensatz für Privatpersonen beträgt 55€ pro 60 Minuten
-			Session, wobei die erste Session kostenlos ist.
-		</p>
-		<p>
-			Für Unternehmen schreibe ich gerne ein maßgeschneidertes Angebot
-			nach einer strukturierten Auftragsklärung, welche ebenfalls
-			kostenlos ist.
-		</p>
-
-		<h2>Wie machen wir das?</h2>
-
-		<p>
-			Einfach. Schreib mir eine Mail an <a
-				class="highlight"
-				href="mailto:coaching@robertnickel.online"
-				>coaching@robertnickel.online</a
-			> mit deinem ungefähren Anliegen, dann machen wir ein kostenloses Erstgespräch
-			aus.
-		</p>
-		<p>
-			Wir können das Coaching vor Ort in Konstanz oder Umgebung machen,
-			oder remote. Beides hat eigene Vor- und Nachteile.
-		</p>
-		<p>
-			Für Unternehmen erstreckt sich der Radius für Vor-Ort-Besuche auf
-			die beiden südlichen Bundesländer sowie die Schweiz.
-		</p>
+			<p>
+				Einfach. Schreib mir eine Mail an <a
+					class="highlight"
+					href="mailto:coaching@robertnickel.online"
+					>coaching@robertnickel.online</a
+				> mit deinem ungefähren Anliegen, dann machen wir ein kostenloses
+				Erstgespräch aus.
+			</p>
+			<p>
+				Wir können das Coaching vor Ort in Konstanz oder Umgebung
+				machen, oder remote.
+			</p>
+			<p>
+				Für Unternehmen erstreckt sich der Radius für Vor-Ort-Besuche
+				auf die beiden südlichen Bundesländer sowie die Schweiz.
+			</p>
+		</HighlightBlock>
 
 		<hr style="margin-top: 6em;" />
 		<p>
@@ -171,10 +175,6 @@
 	}
 
 	.highlight {
-		background: linear-gradient(
-			120deg,
-			rgba(255, 255, 0, 0.6) 50%,
-			rgba(255, 255, 0, 0.8) 100%
-		);
+		background: rgba(255, 255, 0, 0.8) 100%;
 	}
 </style>
