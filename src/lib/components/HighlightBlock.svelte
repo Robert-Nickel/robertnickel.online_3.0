@@ -3,7 +3,7 @@
 
     export let mobileAutoActive = true;
     export let activeColor = "#ffff00";
-    export let shiftX = 8;
+    export let shiftX = 16;
 
     let element: HTMLDivElement;
     let isActive = false;
@@ -80,27 +80,29 @@
     }
 
     .highlight-content {
+        padding-left: 0;
         transition: transform 180ms ease;
     }
 
     .highlight-block::before {
         content: "";
         position: absolute;
-        left: -14px;
+        left: 0;
         top: 0;
         width: 6px;
         height: 100%;
         background: var(--highlight-color);
-        opacity: 0;
 
+        opacity: 0;
         transform: scaleX(0);
         transform-origin: left;
 
         transition:
-            opacity 140ms ease,
-            transform 220ms ease;
+            opacity 120ms ease,
+            transform 200ms ease;
     }
 
+    /* Desktop (Hover) */
     @media (hover: hover) and (pointer: fine) {
         .highlight-block:hover .highlight-content {
             transform: translateX(var(--shift-x));
@@ -108,16 +110,17 @@
 
         .highlight-block:hover::before {
             opacity: 1;
-            transform: scaleY(1);
+            transform: scaleX(1);
         }
     }
 
+    /* Mobile (Scroll aktiv) */
     .highlight-block.active .highlight-content {
         transform: translateX(var(--shift-x));
     }
 
     .highlight-block.active::before {
         opacity: 1;
-        transform: scaleY(1);
+        transform: scaleX(1);
     }
 </style>

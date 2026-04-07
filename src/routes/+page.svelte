@@ -22,18 +22,21 @@
 		</div>
 	</div>
 	<div class="text-container">
-		<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
-		<p>
-			Durch strukturierte Methoden gewinnst du neue Perspektiven,
-			Erkenntnisse über deine Situation, deine eigenen Werte und Optionen.
-			Unser gemeinsames Ziel ist die Erlangung von Klarheit, um
-			selbstbewusst die richtige Entscheidung zu treffen.
-		</p>
-		<p>
-			Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
-			mentalen Verzerrungen (Biases) mit, so dass sich die Entscheidung
-			nicht nur richtig anfühlt.
-		</p>
+	<h1>Systemischer (Business) Coach</h1>
+		<HighlightBlock>
+			<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
+			<p>
+				Durch strukturierte Methoden gewinnst du neue Perspektiven,
+				Erkenntnisse über deine Situation, deine eigenen Werte und
+				Optionen. Unser gemeinsames Ziel ist die Erlangung von Klarheit,
+				um selbstbewusst die richtige Entscheidung zu treffen.
+			</p>
+			<p>
+				Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
+				mentalen Verzerrungen (Biases) mit, so dass sich die
+				Entscheidung nicht nur richtig anfühlt.
+			</p>
+		</HighlightBlock>
 		<HighlightBlock>
 			<h2>Ich?</h2>
 			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
