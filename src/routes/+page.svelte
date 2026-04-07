@@ -22,7 +22,7 @@
 		</div>
 	</div>
 	<div class="text-container">
-	<h1>Systemischer (Business) Coach</h1>
+	<h1>Systemischer Coach</h1>
 		<HighlightBlock>
 			<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
 			<p>
