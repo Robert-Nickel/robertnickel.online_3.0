@@ -24,7 +24,7 @@
 	<div class="text-container">
 	<h1>Systemischer Coach</h1>
 		<HighlightBlock>
-			<h2>Mein zentrales Thema: <u>Entscheidungscoaching</u></h2>
+			<h2>Meine Leidenschaft: <u>Entscheidungscoaching</u></h2>
 			<p>
 				Durch strukturierte Methoden gewinnst du neue Perspektiven,
 				Erkenntnisse über deine Situation, deine eigenen Werte und
@@ -32,7 +32,7 @@
 				um selbstbewusst die richtige Entscheidung zu treffen.
 			</p>
 			<p>
-				Ich bringe bei Bedarf viel Wissen zu typischen Denkfehlern und
+				Bei Bedarf bringe ich viel Wissen zu typischen Denkfehlern und
 				mentalen Verzerrungen (Biases) mit, so dass sich die
 				Entscheidung nicht nur richtig anfühlt.
 			</p>
