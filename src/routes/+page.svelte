@@ -51,7 +51,8 @@
 			...und lebe und arbeite am westlichen Bodensee (Konstanz).
 		</HighlightBlock>
 		<HighlightBlock>
-			<h2>Weitere Coachinganliegen könnten sein</h2>
+			<h2>Coachinganliegen</h2>
+			neben Entscheidungen, die du treffen möchtest, könnten auch sein
 			<ul>
 				<li>persönliche Weiterentwicklung (Wer will ich sein?)</li>
 				<li>Gewohnheitsänderungen (Wie will ich sein?)</li>
