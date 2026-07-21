@@ -32,9 +32,9 @@
 				um selbstbewusst die richtige Entscheidung zu treffen.
 			</p>
 			<p>
-				Bei Bedarf bringe ich viel Wissen zu typischen Denkfehlern und
+				Ich bringe Methoden der Rationalität und
 				mentalen Verzerrungen (Biases) mit, so dass sich die
-				Entscheidung nicht nur richtig anfühlt.
+				Entscheidung nicht nur richtig anfühlt - sondern sie die beste Entscheidung ist, die du aktuell treffen kannst.
 			</p>
 		</HighlightBlock>
 		<HighlightBlock>
