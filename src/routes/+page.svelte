@@ -51,24 +51,17 @@
 			...und lebe und arbeite am westlichen Bodensee (Konstanz).
 		</HighlightBlock>
 		<HighlightBlock>
-			<h2>Coachinganliegen</h2>
-			neben Entscheidungen, die du treffen möchtest, könnten auch sein
-			<ul>
-				<li>persönliche Weiterentwicklung (Wer will ich sein?)</li>
-				<li>Gewohnheitsänderungen (Wie will ich sein?)</li>
-				<li>Zielklarheit (Wo will ich hin?)</li>
-			</ul>
+			<h2>Entscheidungen...</h2>
+			<p>...sind oft keine eindeutigen A oder B Situationen!</p>
+			<p>Manchmal liegen die wichtigsten Entscheidungen in der Umsetzung persönlicher Weiterentwicklung, der Änderung von Gewohnheiten oder darin, überhaupt erst ein klares Ziel zu formulieren.</p>
 		</HighlightBlock>
 		<HighlightBlock>
-			<h2>Preistransparenz</h2>
+			<h2>Preise</h2>
 			<p>
-				Mein Stundensatz für Privatpersonen beträgt 55€ pro 60 Minuten
-				Session, wobei die erste Session kostenlos ist.
+				Damit möglichst viele Menschen Zugang zu sys. Coaching bekommen, gibt es für Privatpersonen eine Preisstaffelung zwischen 40€ und 90€.
 			</p>
 			<p>
-				Für Unternehmen schreibe ich gerne ein maßgeschneidertes Angebot
-				nach einer strukturierten Auftragsklärung, welche ebenfalls
-				kostenlos ist.
+				Für Unternehmen schreibe ich nach einer kostenlosen, strukturierten Auftragsklärung gerne ein maßgeschneidertes Angebot.
 			</p>
 		</HighlightBlock>
 		<HighlightBlock>
