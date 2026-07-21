@@ -54,7 +54,7 @@
 		<HighlightBlock>
 			<h2>Preise</h2>
 			<p>
-				Damit möglichst viele Menschen Zugang zu sys. Coaching bekommen, gibt es für Privatpersonen eine Preisstaffelung zwischen 40€ und 90€.
+				Damit möglichst viele Menschen Zugang zu sys. Coaching bekommen, gibt es für Privatpersonen eine Preisstaffelung zwischen 40€ und 120€.
 			</p>
 			<p>
 				Für Unternehmen schreibe ich nach einer kostenlosen, strukturierten Auftragsklärung gerne ein maßgeschneidertes Angebot.
