@@ -41,7 +41,7 @@
 			<h2>Ich?</h2>
 			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
 			/>
-			...sehe mich selbst als gestandenen Rationalisten (Master of Science in Informatik, 5 Jahre Erfahrung in Softwareentwicklung)<br />
+			...sehe mich selbst als Rationalisten (Master of Science in Informatik + 5 Jahre Erfahrung in Softwareentwicklung)<br />
 			...arbeite hauptberuflich als Agile Coach<br />
 			...war lange in einem Konzern, kurz in einem Startup und bin aktuell in einem mittelständischen Unternehmen<br />
 			...und lebe und arbeite am westlichen Bodensee (Konstanz).
