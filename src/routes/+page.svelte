@@ -22,7 +22,7 @@
 		</div>
 	</div>
 	<div class="text-container">
-	<h1>Systemischer Coach</h1>
+		<h1>Systemischer Coach</h1>
 		<HighlightBlock>
 			<h2>Meine Leidenschaft: <u>Entscheidungscoaching</u></h2>
 			<p>
@@ -32,32 +32,42 @@
 				um selbstbewusst die richtige Entscheidung zu treffen.
 			</p>
 			<p>
-				Ich bringe Methoden der Rationalität und
-				mentalen Verzerrungen (Biases) mit, so dass sich die
-				Entscheidung nicht nur richtig anfühlt - sondern sie die beste Entscheidung ist, die du aktuell treffen kannst.
+				Durch die Anwendung von Methoden der Rationalität fühlt sich
+				eine Entscheidung nicht nur richtig an - sie ist die beste
+				Entscheidung, die du aktuell treffen kannst.
 			</p>
 		</HighlightBlock>
 		<HighlightBlock>
 			<h2>Ich?</h2>
 			...bin zertifizierter Systemischer Business Coach (Haufe Akademie)<br
 			/>
-			...sehe mich selbst als Rationalisten (Master of Science in Informatik + 5 Jahre Erfahrung in Softwareentwicklung)<br />
+			...wurde geschmiedet im Feuer der Informatik (MSc) und des Software Engineering (5+ Jahre)<br
+			/>
 			...arbeite hauptberuflich als Agile Coach<br />
-			...war lange in einem Konzern, kurz in einem Startup und bin aktuell in einem mittelständischen Unternehmen<br />
+			...war lange in einem Konzern, kurz in einem Startup und bin aktuell
+			in einem mittelständischen Unternehmen<br />
 			...und lebe und arbeite am westlichen Bodensee (Konstanz).
 		</HighlightBlock>
 		<HighlightBlock>
 			<h2>Entscheidungen...</h2>
 			<p>...sind oft keine eindeutigen A oder B Situationen!</p>
-			<p>Manchmal liegen die wichtigsten Entscheidungen in der Umsetzung persönlicher Weiterentwicklung, der Änderung von Gewohnheiten oder darin, überhaupt erst ein klares Ziel zu formulieren.</p>
+			<p>
+				Manchmal liegen die wichtigsten Entscheidungen in der Umsetzung
+				persönlicher Weiterentwicklung, der Änderung von Gewohnheiten
+				oder darin, überhaupt erst ein klares Ziel zu formulieren.
+			</p>
 		</HighlightBlock>
 		<HighlightBlock>
 			<h2>Preise</h2>
 			<p>
-				Damit möglichst viele Menschen Zugang zu sys. Coaching bekommen, gibt es für Privatpersonen eine Preisstaffelung zwischen 40€ und 120€.
+				Damit möglichst viele Menschen Zugang zu sys. Coaching bekommen,
+				gibt es für Privatpersonen eine Preisstaffelung zwischen 40€ und
+				120€.
 			</p>
 			<p>
-				Für Unternehmen schreibe ich nach einer kostenlosen, strukturierten Auftragsklärung gerne ein maßgeschneidertes Angebot.
+				Für Unternehmen schreibe ich nach einer kostenlosen,
+				strukturierten Auftragsklärung gerne ein maßgeschneidertes
+				Angebot.
 			</p>
 		</HighlightBlock>
 		<HighlightBlock>
